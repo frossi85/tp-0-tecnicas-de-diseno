@@ -7,6 +7,10 @@ import static org.junit.Assert.assertEquals;
 
 public class RulesTest {
 
+    //Todos los test pasan pero que pasa si creo dos instancias del mismo tipo y las enfrento con vs?
+    //En ese caso fallaria el test y se violaria la invariante. Podriamos solucionarlo implementando
+    //el patrón Singleton para las entidades o sobreescribiendo el equals, en ambos caso necesitaria
+    //de ifs.
     private Rock rock = new Rock();
     private Paper paper = new Paper();
     private Scissors scissors = new Scissors();
@@ -22,9 +26,7 @@ public class RulesTest {
     }
 
     @Test
-    public void rockTieWithRock() {
-        assertEquals(rock, rock.vs(rock));
-    }
+    public void rockTieWithRock() { assertEquals(rock, rock.vs(rock)); }
 
     @Test
     public void paperBeatsRock() {
