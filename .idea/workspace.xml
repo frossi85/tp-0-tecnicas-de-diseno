@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6140ad5-d4ab-4660-b2e0-374fb1227ff5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ar/fiuba/tecnicas/rockpaperscissors/Paper.java" afterPath="$PROJECT_DIR$/src/main/java/ar/fiuba/tecnicas/rockpaperscissors/Paper.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ar/fiuba/tecnicas/rockpaperscissors/Scissors.java" afterPath="$PROJECT_DIR$/src/main/java/ar/fiuba/tecnicas/rockpaperscissors/Scissors.java" />
     </list>
     <ignored path="rock-paper-scissors.iws" />
@@ -42,12 +41,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Scissors.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Scissors.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ar/fiuba/tecnicas/rockpaperscissors/Scissors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="0.42121685">
+              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+              <folding>
+                <element signature="e#146#147#0" expanded="true" />
+                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#233#234#0" expanded="true" />
+                <element signature="e#278#279#0" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -62,10 +68,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Paper.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Paper.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ar/fiuba/tecnicas/rockpaperscissors/Paper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3369735">
+            <state vertical-scroll-proportion="0.0">
               <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
               <folding>
                 <element signature="e#278#279#0" expanded="true" />
@@ -97,8 +103,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/test/java/ar/fiuba/tecnicas/rockpaperscissors/RulesTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ar/fiuba/tecnicas/rockpaperscissors/Rock.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ar/fiuba/tecnicas/rockpaperscissors/Scissors.java" />
         <option value="$PROJECT_DIR$/src/main/java/ar/fiuba/tecnicas/rockpaperscissors/Paper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ar/fiuba/tecnicas/rockpaperscissors/Scissors.java" />
       </list>
     </option>
   </component>
@@ -500,12 +506,12 @@
       <created>1428180951843</created>
       <option name="number" value="Default" />
       <updated>1428180951843</updated>
-      <workItem from="1428180953822" duration="1060000" />
+      <workItem from="1428180953822" duration="1269000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1060000" />
+    <option name="totallyTimeSpent" value="1269000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
@@ -543,14 +549,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ar/fiuba/tecnicas/rockpaperscissors/Scissors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ar/fiuba/tecnicas/rockpaperscissors/Rock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -566,6 +564,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ar/fiuba/tecnicas/rockpaperscissors/Paper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ar/fiuba/tecnicas/rockpaperscissors/RulesTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -574,13 +583,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ar/fiuba/tecnicas/rockpaperscissors/Paper.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ar/fiuba/tecnicas/rockpaperscissors/Scissors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3369735">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.42121685">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
           <folding>
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
             <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
           </folding>
         </state>
       </provider>
